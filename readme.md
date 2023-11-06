@@ -4,4 +4,4 @@ This repo is a compilation of all the exercises for part 6. to check individual 
 
 6.3 to 6.19 - https://github.com/DigitalBubblegum/redux-anecdotes
 
-6.20 to 6.25 - https://github.com/DigitalBubblegum/query-anecdotes
+6.20 to 6.24 - https://github.com/DigitalBubblegum/query-anecdotes
